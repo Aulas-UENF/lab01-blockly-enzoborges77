@@ -46,13 +46,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> Percebi que o padrão se repetia, então desenhei quatro hexágonos se conectando através de seus vértices. Formando um padrão de pétalas, isso só foi possível através do curto espaço entre as formas desenhadas 
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** Precisa ter 6 repetições e ter um ângulo de 60°.
   
-**B)** Escreva aqui...
+**B)** Precisa girar em 90°.
   
-**C)** Escreva aqui...
+**C)** Conclui que um círculo é composto por um ângulo de 360°, um hexágono regular possui 6 ângulos internos, então dividi 360 por 6. Logo, 360/6 = 60. Outrossim, para se conectar a outros três hexágonos, necessita um ângulo de 90°, pois formará um polígono de quatro linhas retas, não alterando o formato de outros hexágonos. 
 
 ---
